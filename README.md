@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## To download all project dependencies, write: 
 
-Install dependencies `npm ci`
+Install dependencies `npm ci` Angular project.
 
 ## Development server
 
